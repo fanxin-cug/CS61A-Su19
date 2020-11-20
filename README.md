@@ -7,7 +7,8 @@ https://inst.eecs.berkeley.edu/~cs61a/su19/
 ## B站视频
 https://www.bilibili.com/video/BV1nJ41157p6
 
-The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.  
+## 课程简介
+The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.  简介
 
 In CS 61A, we are interested in teaching you about programming, not about how to use one particular programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. 
 
