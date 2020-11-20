@@ -1,5 +1,5 @@
 # CS61A-Su19
-My solution to UCB CS61A cource SICP-Python Lab HomeWork &amp; Project
+My solution to UCB CS61A course SICP-Python Lab HomeWork &amp; Project
 
 ## 课程网站
 https://inst.eecs.berkeley.edu/~cs61a/su19/
