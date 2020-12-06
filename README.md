@@ -1,6 +1,9 @@
 # CS61A-Su19
 My solution to UCB CS61A course SICP-Python Lab HomeWork &amp; Project
 
+## Ants VS. Bees:
+http://fanxin-cug.me:8090/gui.html
+
 ## 课程网站
 https://inst.eecs.berkeley.edu/~cs61a/su19/
 
