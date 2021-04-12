@@ -2,7 +2,7 @@
 My solution to UCB CS61A course SICP-Python Lab HomeWork &amp; Project
 
 ## Ants VS. Bees(My Solution)
-http://fanxin-cug.me:8090/gui.html
+http://fanxin-ucas.site:8090/gui.html
 
 ## 课程网站
 https://inst.eecs.berkeley.edu/~cs61a/su19/
