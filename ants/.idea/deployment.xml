@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="VPN">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/Ants" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="fanxin@cn-cd-dx.sakurafrp.com:17452">
         <serverdata>
           <mappings>
