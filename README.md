@@ -1,5 +1,8 @@
-# CS61A-Su19
-My solution to UCB CS61A course SICP-Python Lab HomeWork &amp; Project
+# CS61A
+CS61A是伯克利的一门编程课，对应的教材是《计算机程序的构造和解释》。其核心思想是抽象（函数构造抽象和数据构造抽象），主要讲解了函数式编程、面向对象编程（OOP）和声明式编程（SQL）三种编程范式。最后讲解了Scheme语言，并用Python实现了一个简单的Scheme解释器。另外，课程也涉及了一些编程的核心主题，如递归、宏、流、迭代器和生成器等，以及基础的数据结构链表和树。
+
+## CS61A-Su19
+My solution to UCB CS61A course SICP-Python Lab HomeWork & Project
 
 ## 课程网站
 https://inst.eecs.berkeley.edu/~cs61a/su19/
